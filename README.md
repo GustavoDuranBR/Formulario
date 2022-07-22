@@ -1,4 +1,3 @@
-# Formulario
+# Formulario #
 
-![image](H:\PYTHON_PROJETOS\Formulario\imagens\banner_form.png "Cadastro de DEVs")
-
+![banner_form](https://user-images.githubusercontent.com/81047389/180570663-8cc26695-146c-4117-b96f-5bbd46ca8b53.png)
