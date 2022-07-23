@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-<h5 align="center">🚧 Versão do projeto - 1.0.1 🚀 em construção...🚧</h5>Versão do projeto - 
+<h5 align="center">🚧 Versão do projeto - 1.0.1 🚀 em construção...🚧</h5>
 Esse formulário tem o objetivo de coletar as informações inseridas pelos usuários e 
 armazena-las em um banco de dados MySQL.
 
